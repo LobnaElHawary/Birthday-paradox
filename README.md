@@ -1,5 +1,5 @@
-Lobna ElHawary	ID: 900160270, section: 01
-Samer Basta	ID: 900150910, section: 01
+Lobna ElHawary	
+Samer Basta
 
 In this assignment, we implemented the birthday paradox.
 
